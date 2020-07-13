@@ -1,0 +1,13 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: LM Track for SuperTuxKart
+Upstream-Contact: Anard <anard@free.fr>
+Source: https://supertuxkart.net
+License: CC-BY-SA 3.0
+
+Files: sand*
+Copryright: Copyright 2020 cc0textures.com
+
+Files: *
+Copyright: Copyright 2020 Anard <anard@free.fr>
+License: CC-BY-SA 3.0
+Comment: Track based on Le Mans circuits
