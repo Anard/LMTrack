@@ -5,7 +5,11 @@ Source: https://supertuxkart.net
 License: CC-BY-SA 3.0
 
 Files: sand*
-Copryright: Copyright 2020 cc0textures.com
+Copyright: Copyright 2020 cc0textures.com
+
+Files: fairground.png
+Copyright: Copyright 2020 bbc.co.uk
+License: RemArc
 
 Files: *
 Copyright: Copyright 2020 Anard <anard@free.fr>
