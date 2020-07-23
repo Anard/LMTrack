@@ -7,8 +7,8 @@ License: CC-BY-SA 3.0
 Files: sand*
 Copyright: Copyright 2020 cc0textures.com
 
-Files: fairground.ogg
-Copyright: Copyright 2020 bbc.co.uk
+Sounds: fairground.ogg
+Copyright: Copyright 2020 BBC bbc.co.uk
 License: RemArc
 
 Files: Paving_Stones_2.png
