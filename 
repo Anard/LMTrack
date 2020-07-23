@@ -1,0 +1,81 @@
+[1mdiff --git "a/Capture d\342\200\231\303\251cran 2020-07-09 \303\240 09.49.05.png" "b/Capture d\342\200\231\303\251cran 2020-07-09 \303\240 09.49.05.png"[m
+[1mdeleted file mode 100644[m
+[1mindex 9570833..0000000[m
+Binary files "a/Capture d\342\200\231\303\251cran 2020-07-09 \303\240 09.49.05.png" and /dev/null differ
+[1mdiff --git a/LMTrack-BugOK.blend b/LMTrack-BugOK.blend[m
+[1mdeleted file mode 100644[m
+[1mindex b0390b7..0000000[m
+Binary files a/LMTrack-BugOK.blend and /dev/null differ
+[1mdiff --git a/LMTrack-fullMoulin.blend b/LMTrack-fullMoulin.blend[m
+[1mdeleted file mode 100644[m
+[1mindex 130e674..0000000[m
+Binary files a/LMTrack-fullMoulin.blend and /dev/null differ
+[1mdiff --git a/LMTrack-mainOK.blend b/LMTrack-mainOK.blend[m
+[1mdeleted file mode 100644[m
+[1mindex 9384983..0000000[m
+Binary files a/LMTrack-mainOK.blend and /dev/null differ
+[1mdiff --git a/LMTrack-old.blend b/LMTrack-old.blend[m
+[1mdeleted file mode 100644[m
+[1mindex a8ed10c..0000000[m
+Binary files a/LMTrack-old.blend and /dev/null differ
+[1mdiff --git a/LMTrack-reduced.blend b/LMTrack-reduced.blend[m
+[1mdeleted file mode 100644[m
+[1mindex ca913b3..0000000[m
+Binary files a/LMTrack-reduced.blend and /dev/null differ
+[1mdiff --git a/LMTrack-reduced.blend1 b/LMTrack-reduced.blend1[m
+[1mdeleted file mode 100644[m
+[1mindex a7f316d..0000000[m
+Binary files a/LMTrack-reduced.blend1 and /dev/null differ
+[1mdiff --git a/LMTrack-test.blend b/LMTrack-test.blend[m
+[1mdeleted file mode 100644[m
+[1mindex 43604de..0000000[m
+Binary files a/LMTrack-test.blend and /dev/null differ
+[1mdiff --git a/LMTrack-workingDrivelines.blend b/LMTrack-workingDrivelines.blend[m
+[1mdeleted file mode 100644[m
+[1mindex 3f071f2..0000000[m
+Binary files a/LMTrack-workingDrivelines.blend and /dev/null differ
+[1mdiff --git a/LMTrack.blend b/LMTrack.blend[m
+[1mindex 1f8714c..a7ec55d 100644[m
+Binary files a/LMTrack.blend and b/LMTrack.blend differ
+[1mdiff --git a/LMTrack.blend1 b/LMTrack.blend1[m
+[1mindex 2b6090c..3ca755f 100644[m
+Binary files a/LMTrack.blend1 and b/LMTrack.blend1 differ
+[1mdiff --git a/LMTrack1.blend b/LMTrack1.blend[m
+[1mdeleted file mode 100644[m
+[1mindex 7c611a7..0000000[m
+Binary files a/LMTrack1.blend and /dev/null differ
+[1mdiff --git a/NOTES b/NOTES[m
+[1mdeleted file mode 100644[m
+[1mindex 50b449e..0000000[m
+[1m--- a/NOTES[m
+[1m+++ /dev/null[m
+[36m@@ -1,12 +0,0 @@[m
+[31m-Indications :[m
+[31m-near Mulsanne : Beware of Merco's syndrome[m
+[31m-	Another near Maison blanche ?[m
+[31m-Bugatti : Motorcycles way / Cars way[m
+[31m-Chemin aux boeufs, Casnieres, Ancien Moulin : Residents only[m
+[31m-Cars driving on Ancien moulin[m
+[31m-[m
+[31m-Replace Bugatti canon by zipper that need top skills to take[m
+[31m-Add vibrators on race parts[m
+[31m-[m
+[31m-Making tracks :[m
+[31m-https://www.youtube.com/watch?v=1VtUDBvL4vQ&start=13s[m
+\ No newline at end of file[m
+[1mdiff --git a/city_asphalt_1.png b/city_asphalt_1.png[m
+[1mdeleted file mode 100755[m
+[1mindex 40f5f13..0000000[m
+Binary files a/city_asphalt_1.png and /dev/null differ
+[1mdiff --git a/city_asphalt_2.png b/city_asphalt_2.png[m
+[1mdeleted file mode 100755[m
+[1mindex 737da52..0000000[m
+Binary files a/city_asphalt_2.png and /dev/null differ
+[1mdiff --git a/zipper-alpha.png b/zipper-alpha.png[m
+[1mdeleted file mode 100644[m
+[1mindex 2cdd338..0000000[m
+Binary files a/zipper-alpha.png and /dev/null differ
+[1mdiff --git a/zipper.png b/zipper.png[m
+[1mdeleted file mode 100755[m
+[1mindex e7e760b..0000000[m
+Binary files a/zipper.png and /dev/null differ

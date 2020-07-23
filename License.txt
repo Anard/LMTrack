@@ -18,6 +18,10 @@ License: CC-BY-SA 3.0
 Files: city_asphalt*
 Copyright: Thomas Oppl (horace) toppl@fh-sbg.ac.at (c) 2008
 
+Files: grasshedge.png
+Copyright: Lamoot 2012 opengameart.com
+Licence: CC0 Public Domain
+
 Textures: Nolok-Experience-Center's walls
 Copyright: Copyright 2020 everytexture.com
 
