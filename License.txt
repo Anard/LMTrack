@@ -3,6 +3,7 @@ Upstream-Name: LM Track for SuperTuxKart
 Upstream-Contact: Anard <anard@free.fr>
 Source: https://supertuxkart.net
 License: CC-BY-SA 4.0
+Comment: Track based on Le Mans circuits
 
 Files: skybox*
 Copyright: Emil Persson, aka Humus 2013 opengameart.com
@@ -10,10 +11,7 @@ License: CC-BY 3.0
 
 Files: sand*
 Copyright: Copyright 2020 cc0textures.com
-
-Sounds: fairground.ogg
-Copyright: Copyright 2020 BBC bbc.co.uk
-License: RemArc
+License: CC0 Public Domain
 
 Files: Paving_Stones_2.png
 Copyright: Marianne Gagnon, made from public domain images from BurningWell, http://www.publicdomainpictures.net/, Wikimedia commons
@@ -88,7 +86,7 @@ Bush
 Flower
     http://commons.wikimedia.org/wiki/File:Greatbasin_sage.JPG
     Cliff Hutson
-    CC BY Sa 3.0
+    CC-BY-SA 3.0
 
 Objects: stklib_wilberPainter_a
 Copyright:
@@ -100,3 +98,7 @@ Copyright:
  Copyright 2016 "GeekPenguinBR" and "TuxKartDriver" 
  Copyright 2017 Benau
 License: CC-BY-SA 3.0
+
+Sounds: fairground.ogg
+Copyright: Copyright 2020 BBC bbc.co.uk
+License: RemArc
