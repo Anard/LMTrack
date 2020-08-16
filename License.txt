@@ -99,6 +99,6 @@ Copyright:
  Copyright 2017 Benau
 License: CC-BY-SA 3.0
 
-Sounds: fairground.ogg
+Sounds: fairground.ogg, announcer.ogg
 Copyright: Copyright 2020 BBC bbc.co.uk
 License: RemArc
